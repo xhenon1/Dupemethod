@@ -102,7 +102,7 @@ tradescam.TextScaled = true
 tradescam.TextSize = 14.000
 tradescam.TextWrapped = true
 tradescam.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/s9u7Y0dx'))() 
+	loadstring(game:HttpGet('https://pastebin.com/raw/gvbbqG5V '))() 
 end)
 
 
@@ -149,7 +149,7 @@ newdupe.TextScaled = true
 newdupe.TextSize = 14.000
 newdupe.TextWrapped = true
 newdupe.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/s9u7Y0dx'))() 
+	loadstring(game:HttpGet('https://pastebin.com/raw/gvbbqG5V'))() 
 end)
 
 UICorner_4.Parent = newdupe
